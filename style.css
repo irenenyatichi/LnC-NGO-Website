@@ -1,3 +1,17 @@
+/* RESPONSIVENESS ON TEXT */
+.responsive-text {
+    text-align: justify;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+@media (max-width: 768px) {
+    .responsive-text {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}
+/* END RESPONSIVENESS ON TEXT */
+
 /* INDEX PAGE AND NAV BARS */
  .menu {
     margin: 5px;
